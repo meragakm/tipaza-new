@@ -1,0 +1,5 @@
+
+User-agent: *
+Sitemap: https://tipaza360.fr/sitemap.xml
+Disallow: /admin/
+``
